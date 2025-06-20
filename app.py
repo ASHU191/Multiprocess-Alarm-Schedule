@@ -5,7 +5,7 @@ from tkinter import ttk, messagebox, Canvas
 import datetime
 import time
 import threading
-import queue as thread_queue
+import queue as thread_queue       
 import winsound
 
 class ManagedProcess:
